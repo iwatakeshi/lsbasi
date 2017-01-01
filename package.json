@@ -1,0 +1,25 @@
+{
+  "name": "lsbasi",
+  "version": "1.0.0",
+  "description": "Source code for the series **Let's Build A Simple Interpreter**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwatakeshi/lsbasi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwatakeshi/lsbasi/issues"
+  },
+  "homepage": "https://github.com/iwatakeshi/lsbasi#readme",
+  "devDependencies": {
+    "@types/node": "^6.0.55"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.5"
+  }
+}
